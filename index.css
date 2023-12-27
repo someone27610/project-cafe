@@ -1,0 +1,245 @@
+#bapro {
+    width: 70%;
+    height: 70px;
+    font-size: large;
+    background: url(image_1/buttonbg.jpg) repeat;
+    border-radius: 60px;
+    margin-left: 16%;
+}
+.fal {
+    text-decoration: none;
+      color: white;
+    font-size: 40px;
+    font-family: 'Eczar', serif;
+}
+.ff {
+    background: url(image_1/buttonbg.jpg) repeat;
+    border: rgb(51, 65, 95) solid;
+}
+
+#leg {
+    background-color: #e8b1ff;
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    border-radius: 9%;
+    font-family: 'Eczar', serif;
+}
+.spp img {
+    width: 20%;
+    height: 290px;
+    margin: 4%;
+    border-radius: 50%;
+}
+.spp {
+    text-align: center;
+}
+
+.bot {
+
+    background: url(image_1/holymoly.jpg);
+
+}
+
+#spml {
+
+    width: 20%;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 60px;
+    margin-left: 170px;
+    background-color: #e8b1ff;
+    color: white;
+    text-align: center;
+    font-family: 'Eczar', serif;
+
+}
+
+#ggh {
+
+    width: 20%;
+
+    height: 40px;
+
+    font-size: 15px;
+
+    border-radius: 60px;
+    margin-left: 125px;
+    background-color: #e8b1ff;
+
+    color: white;
+
+    text-align: center;
+
+    font-family: 'Eczar', serif;
+
+}
+
+#aasd {
+    width: 20%;
+    height: 40px;
+
+    font-size: 15px;
+
+    border-radius: 60px;
+
+    margin-left: 120px;
+
+    background-color: #e8b1ff;
+
+    color: white;
+    text-align: center;
+
+    font-family: 'Eczar', serif;
+
+}
+
+.lhp {
+
+    color: white;
+
+}
+
+.hp {
+
+    color: white;
+
+    font-family: 'Eczar', serif;
+    font-size: 20px;
+
+}
+
+.hp p {
+    font-size: 25px;
+
+    font-family: 'Eczar', serif;
+
+}
+
+.hp h1 {
+
+    font-size: 30px;
+
+}
+
+.navbar {
+
+    background-color: #aa85ee;
+
+    height: 50px;
+
+    display: flex;
+
+    align-items: center;
+
+    padding: 5px;
+
+    border: 2px solid white;
+
+    border-radius: 12px;
+
+}
+
+
+
+.navtext {
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 20px;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: bold;
+
+    margin-left: 40px;
+
+    font-family: Eczar;
+
+}
+
+
+
+.logo {
+
+    width: 51px;
+
+    margin-left: 15px;
+
+    margin-top: 5px;
+
+}
+
+
+
+.footersection {
+
+    background-color: #e8b1ff;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+}
+
+
+
+.footer-pages {
+
+    text-decoration: none;
+
+    text-align: center;
+
+}
+
+
+
+.footerpl {
+
+    color: #370617;
+    text-decoration: none;
+
+    margin: 0 15px;
+
+    font-size: 7px;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: bold;
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+.copyright {
+
+    font-size: 20px;
+
+    color: white;
+
+    font-family: Ezcars;
+
+    text-align: center;
+
+}
+
+
+
+.bi {
+
+    color: white;
+
+    font-size: 33px;
+
+    margin-left: 33px;
+
+}
+.wel    {
+    font-size: 10px;
+}

@@ -1,0 +1,124 @@
+.back button {
+
+    border-bottom-left-radius: 10px;
+
+    background-color: #8C52FF;
+
+}
+
+.back a {
+
+    color: white;
+
+    font-size: 20px;
+
+    text-decoration: none;
+
+}
+
+#proh1 {
+
+    font-size: 70px;
+
+    text-align: center;
+
+    color: white;
+
+    font-family: 'Eczar', serif;
+
+}
+
+.bot {
+
+    background: url(image_1/vroomvroom.jpg);
+
+}
+
+.spp img {
+
+    width: 20%;
+
+    height: 290px;
+
+    margin: 4.5%;
+
+    border-radius: 50%;
+
+}
+
+.spp {
+
+    text-align: center;
+
+}
+
+#spml {
+
+    width: 20%;
+
+    height: 40px;
+    font-size: 20px;
+
+    border-radius: 60px;
+
+    margin-left: 170px;
+
+    background-color: #8C52FF;
+
+    color: white;
+
+    text-align: center;
+
+    font-family: 'Eczar', serif;
+
+}
+
+#ggh {
+
+    width: 20%;
+
+    height: 40px;
+
+    font-size: 20px;
+
+    border-radius: 60px;
+
+    margin-left: 125px;
+
+    background-color: #8C52FF;
+
+    color: white;
+
+    text-align: center;
+
+    font-family: 'Eczar', serif;
+
+}
+
+#aasd {
+
+    width: 20%;
+
+    height: 40px;
+
+    font-size: 20px;
+
+    border-radius: 60px;
+
+    margin-left: 120px;
+
+    background-color: #8C52FF;
+
+    color: white;
+
+    text-align: center;
+
+    font-family: 'Eczar', serif;
+
+}
+
+.ff fieldset {
+
+    border: none;
+
+}

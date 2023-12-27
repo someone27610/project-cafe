@@ -1,0 +1,129 @@
+.navbar {
+    background-color: #aa85ee;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+.navtext {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 40px;
+    font-family: Eczar;
+}
+
+.logo {
+    width: 51px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.footersection {
+    background-color: #e8b1ff;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.footer-pages {
+    text-decoration: none;
+    text-align: center;
+}
+
+.footerpl {
+    color: #370617;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.copyright {
+    font-size: 20px;
+    color: white;
+    font-family: Ezcars;
+    text-align: center;
+}
+
+.bi {
+    color: white;
+    font-size: 33px;
+    margin-left: 33px;
+}
+
+.page2 {
+    background-image: url(image_1/space_2.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Eczar', serif;
+    background-size: cover;
+    background-position: center;}
+
+.infotext {
+    color: #ffffff;
+    font-family: Eczar;
+    font-size: 15px;
+    border: 2px solid #ffffff;
+    padding: 9px;
+    border-radius: 12px;
+    margin-left: 20px;
+}
+.infotext2  {
+    color: #ffffff;
+    font-family: Eczar;
+    font-size: 15px;
+    border: 2px solid #ffffff;
+    padding: 9px;
+    border-radius: 12px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.bigbox {
+    background-color:#ce8aff;
+    width: 90%;
+    margin-left: 60px;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+.etitle {
+    color: white;
+    margin-left: 20px;
+    font-size: 24px;
+    font-family: Eczar;
+}
+.eimage1 {
+    width: 300px;
+    margin-right: 30px;
+    margin-left: 80px;
+    margin-top: 60px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+.eimage2 {
+    width: 300px;
+    margin-left: 60px;
+    margin-right: 40px;
+    margin-top: 60px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+.bcimg  {
+    width: 30%;
+}
+.vid    {
+    width: 300px;
+    height: 300px;
+    border-radius: 12px;
+    margin-left: 390px;
+    border: 2px solid white;
+}
+.cfv    {
+    font-size: 24px;
+   margin-left: 30px;
+}

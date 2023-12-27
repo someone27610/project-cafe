@@ -1,0 +1,110 @@
+.navbar {
+    background-color: #aa85ee;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+.navtext {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 40px;
+    font-family: Eczar;
+}
+
+.logo {
+    width: 51px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.footersection {
+    background-color: #e8b1ff;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.footer-pages {
+    text-decoration: none;
+    text-align: center;
+}
+
+.footerpl {
+    color: #370617;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.copyright {
+    font-size: 20px;
+    color: white;
+    font-family: Ezcars;
+    text-align: center;
+}
+
+.bi {
+    color: white;
+    font-size: 33px;
+    margin-left: 33px;
+}
+
+.page3 {
+    background-image: url(image_1/space_4.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Eczar', serif;
+    background-size: cover;
+    background-position: center;
+}
+
+.mtitle {
+    background-color: #e3cbff;
+    width: 600px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 30px;
+    margin-left: 300px;
+    font-size: 30px;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+
+.finfo {
+    font-family: eczar;
+    color: rgb(63, 48, 72);
+}
+
+.fdimg {
+    width: 60px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.foodbac {
+    background-color: #fea8f3;
+    text-align: center;
+    border-radius: 12px;
+    width: 280px;
+    height: 190px;
+    margin-left: 20px;
+    border: 2px solid white;
+    margin-top: 20px;
+}
+
+.finfo {
+    padding-top: 20px;
+}
+.cfv    {
+    font-size: 24px;
+   margin-left: 30px;
+}

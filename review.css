@@ -1,0 +1,124 @@
+.navbar {
+    background-color: #aa85ee;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+
+.navtext {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 40px;
+    font-family: Eczar;
+}
+
+
+.logo {
+    width: 51px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+.comment {
+    text-align: center;
+}
+.Co {
+    font-family: eczar;
+    padding-left:5px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.Com {
+    background-color: lightpink;
+    border-radius: 29px;
+    width: 560px;
+    height: 350px;
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 44px;
+}
+
+
+
+
+.comment {
+    margin-left: 20px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+
+.fimg {
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+fieldset {
+    width: 25%;
+    background-color: rgb(240, 164, 248);
+    margin: auto;
+    text-align: center;
+    border: 0;
+    border-radius: 15px;
+    margin-top: 30px;
+        }
+legend {
+    background-color: rgb(240, 164, 248);
+    font-size: 18px;
+    padding: 7px 13px;
+    text-align: center;
+    border-radius: 150px;
+    height: 600px;
+        }
+
+
+.comment2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 500px;
+}
+.comm {
+    background-color: rgb(209, 197, 253);
+}
+.footersection {
+    background-color: #e8b1ff;
+    padding: 20px;
+    border-radius: 12px;
+}
+.footer-pages {
+    text-decoration: none;
+    text-align: center;
+}
+.footerpl {
+    color: #370617;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.copyright {
+    font-size: 20px;
+    color: white;
+    font-family: Ezcars;
+    text-align: center;
+}
+.bi {
+    color: white;
+    font-size: 33px;
+    margin-left: 33px;
+}
+
